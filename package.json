@@ -1,0 +1,13 @@
+{
+  "name": "cyclonedx-bom",
+  "version": "1.0.0",
+  "description": "Test SBOM",
+  "main": "index.js",
+  "repository": "https://github.com/Pandabweer/cyclonedx-bom",
+  "author": "Enrique Bos <enriquebos7090@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
+}
